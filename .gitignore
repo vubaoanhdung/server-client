@@ -1,2 +1,5 @@
 *.tar
 *.pdf
+.idea
+.vscode
+*.zip
